@@ -1,0 +1,23 @@
+using UnityEngine;
+using LMNT;
+using System.Collections;
+public class EndDialogue : MonoBehaviour
+{
+    private LMNTSpeech speech;
+    private bool hasSpoken = false;
+
+    void Start()
+    {
+        speech = GetComponent<LMNTSpeech>();
+        StartCoroutine(SpeakOnce());
+    }
+
+    private IEnumerator SpeakOnce()
+    {
+        if (!hasSpoken)
+        {
+            hasSpoken = true;
+            yield return speech.Talk();
+        }
+    }
+}
