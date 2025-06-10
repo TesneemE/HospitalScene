@@ -3,7 +3,7 @@ My scene in our group's VR Horror Game titled In the Dark.
 
 
 ### VR Demo
-[![IMAGE ALT TEXT HERE](https://youtu.be/kaiLhAu0zuI.jpg)](https://youtu.be/kaiLhAu0zuI)]
+[![IMAGE ALT TEXT HERE](https://youtu.be/kaiLhAu0zuI.jpg)](https://youtu.be/kaiLhAu0zuI)
 
 ### Computer Demo
-[![IMAGE ALT TEXT HERE](https://youtu.be/BagC3NNvpus.jpg)](https://youtu.be/BagC3NNvpus)]
+[![IMAGE ALT TEXT HERE](https://youtu.be/BagC3NNvpus.jpg)](https://youtu.be/BagC3NNvpus)
